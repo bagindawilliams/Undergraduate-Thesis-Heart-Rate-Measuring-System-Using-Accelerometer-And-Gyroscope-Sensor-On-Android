@@ -10,7 +10,7 @@ clc; clear all; close all;
 %acc = xlsread('scg4.xls');
 %acc = xlsread('scg5.xls');
 %acc = xlsread('06_chest_11bpm.xls'); % bpm = 10, with strap;
-acc = xlsread('sample 4.xls'); % bpm = 12 IMF 7; 
+acc = xlsread('sample 1.xls'); % bpm = 12 IMF 7; 
 
 %acc = xlsread('mbient3.xls');%use 9.8
 
